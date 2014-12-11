@@ -1,17 +1,26 @@
 /* Your Website Styles */
 header	{
+<<<<<<< HEAD
 color: #2c2d70;
+=======
+color: #450F82;
+>>>>>>> origin/gh-pages
 font-family: 'Oswald', sans-serif;
 }
 
 body{
 	background: url(../img/bg.png);
+<<<<<<< HEAD
 	font-family: 'Raleway', serif;
+=======
+	font-family: 'Libre Baskerville', serif;
+>>>>>>> origin/gh-pages
 	font-size: 20px;
 }
 
 h2 {
 	font-size: 45px;
+<<<<<<< HEAD
 	font-family: 'Round Crete', sans-serif;
 	color: #2c2d70;
 	border-bottom: solid #73cbcc;
@@ -45,10 +54,21 @@ width: 70%;
 position: center;
 padding-left: 150px;
 margin-top: 15px;
+=======
+	font-family: 'Oswald', sans-serif;
+	color: #450F82;
+}
+
+#profile-pic {
+width: 140%;
+padding: 20px;
+margin-left: 30px;
+>>>>>>> origin/gh-pages
 
 }
 
 #banner {
+<<<<<<< HEAD
 	text-align: center;
 	height: 100px;
 	font-size: 115px;
@@ -72,6 +92,27 @@ text-align: right;
 font-size: 20px;
 word-spacing: 10px;
 margin-right: 80px;
+=======
+	background: #450F82;
+	text-align: center;
+	height: 100px;
+	font-size: 96px;
+	margin-top: 35px;
+	color: white;
+	padding-bottom: 40px;
+	font-family: 'Oswald', sans-serif;
+}
+
+#navigationlinks ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+text-align: center;
+padding-top: 20px;
+font-size: 30px;
+word-spacing: 30px;
+>>>>>>> origin/gh-pages
 }
 
 #navigationlinks ul li { 
@@ -83,20 +124,37 @@ margin-right: 80px;
 #navigationlinks ul li a {
 text-decoration: none;
 font-size: 20px;
+<<<<<<< HEAD
 color: #73cbcc;
+=======
+>>>>>>> origin/gh-pages
 }
 
 #about {
 text-align: justify;
+<<<<<<< HEAD
 
 }
 
 #major {
 text-align: left;
+=======
+padding-left: 50px;
+margin-top: 160px;
+}
+
+#major {
+margin: -20px 120px 15px 120px;
+text-align: justify;
+>>>>>>> origin/gh-pages
 
 }
 
 #hobbies {
+<<<<<<< HEAD
+=======
+	margin: -20px 0 0 30px;
+>>>>>>> origin/gh-pages
 	text-align: justify;   
 }
 
